@@ -1,0 +1,143 @@
+ {
+  "main": {
+    "name":"Bhomit Kapoor",
+    "description":"I am a Data Science | Machine Learning and BigData Enthusiast - a professional with master's degree and more than 2 years of experience.    or Business-Savvy Full-Stack Data Scientist Specialized in Machine Learning | Lifelong Learner Fascinated by Technology",
+    "image":"profilepic.jpg",
+    "bio":"Creative and Hardworking are the two main ingredients from my routine life.",
+    "contactmessage":" Thank you, I always appreciate the feedback !.",
+    "email": "bk.bhomitkapoor@icloud.com",
+    "phone": "+4915218459862",
+    "github":"https://github.com/Bhomitkapoor",
+    "project":"https://github.com/Bhomitkapoor",
+    "address":{
+      "street":"Blechhammer 9b, Haus 2",
+      "city":"Schmalkalden",
+      "state":"Thueringen",
+      "zip": "98574"
+    },
+    "website": "http://www.bhomitkapoor.com",
+    "resumedownload":"http://bhomitkapoor.com",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/bhomitkapoor",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/bhomitkapoor/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/tbaker_x",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"University of Applied Sciences Schmalkaladen",
+        "degree":"Masters in Applied Computer Science.",
+        "Started":"April 2018 - present",
+        "description":"Specialization in Big Data Management, Distributed Systems, Cloud Computing, CRM Management, Agile Software Development, Computational Intelligence, Web Application, Android Application with Embedded Electronics."
+      },
+      {
+        "school":"Deenbandhu Chhotu Ram University Of Science And Technology",
+        "degree":"Bachelor of Technology       ",
+        "graduated":"August 2017",
+        "description":" During Bachelor's with primary focus on Embedded with Android Technology. Developed Wireless Hand Gesture Controlled Car Roles - Designing and Coding Software Languages Used: Proteus, Micro C & MP Lab & AVR Controller with Proteus for Boards Design: During this time I have hand crafted a movement based on gestures with Embdroid technology. It's a combination of Embedded & Android."
+      }
+    ],
+    "work":[
+      {
+        "company":"Cognizant",
+        "title":"Data Analyst- Developer & Verifier in Cognizant Technology Solutions",
+        "years":"March 2010 - Present",
+        "description":"Process Executive for Google Analytics CRM, Implement Web Analytics with Visualizations,  Customize reports using Dataloader, Quantitative analysis and monitoring of data quality with designing - Business Intelligence, Worked with SEO & Online Marketing, BI Analytics Simplification of Digital Supply Chain, Creating Sheets in MS Excel, Supporting Pre-Sales Activities, Identify-Review & Analysis of issues submitted through CRM."
+      },
+      {
+        "company":" VT incubates @ IIT ",
+        "title":" Production & Automation Testing of Drones",
+        "years":"Dec 2016 – Jun 2017",
+        "description":"Developed a Quadcopter (Drone) on the IoT, Powered by Electronic Cruise Control from remote analyzing. All-In-One Defense & Security Operational module managing the entire controller through mobile application. Planning the functionality flow for application."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Python",
+        "level":"60%"
+      },
+      {
+        "name":"VueJs",
+        "level":"55%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"PHP",
+        "level":"80%"
+      },
+      {
+        "name":"Swift",
+        "level":"50%"
+      },
+      {
+        "name":"JAVA",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"fury-fighting-gear.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"original-thai-food.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"resume-website.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"smirkspace.jpg",
+        "url":"http://www.smirkspace.com"
+      }
+    ]
+  }
+}
